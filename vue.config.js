@@ -1,5 +1,5 @@
 
 module.exports = {
-  publicPath: '/ASE/'
+  publicPath: '/dist/'
 
 }
